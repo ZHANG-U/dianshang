@@ -1,0 +1,80 @@
+.margin {
+  width: 1200px;
+  margin: 0 auto; }
+
+table {
+  width: 1100px;
+  height: 100%;
+  border: 1px solid #e6e6e6;
+  margin: 0 auto; }
+  table thead {
+    font-size: 14px;
+    line-height: 44px;
+    height: 100px;
+    background: #eee; }
+    table thead th input {
+      margin-right: 10px; }
+  table tbody tr {
+    border: 1px solid #e6e6e6;
+    margin-top: 20px; }
+    table tbody tr td {
+      font-size: 20px;
+      height: 140px;
+      text-align: center; 
+      border-right: 1px solid #e6e6e6;}
+      table tbody tr td .shop {
+        width: 200px;
+        height: 200px;
+        border: 0;
+        margin-right: 15px; }
+      table tbody tr td img {
+        width: 90px;
+        height: 90px;
+        border: 1px solid #e6e6e6;
+        margin-left: 10px; }
+      table tbody tr td p {
+        width: 300px;
+        font: 12px/26px ""; }
+      table tbody tr td .changeNum {
+        height: 30px;
+        width: 140px;
+        border: 1px solid #e6e6e6;
+        text-indent: 1rem; }
+      table tbody tr td span {
+        font-size: 16px; }
+    table tbody tr .del {
+      width: 60px;
+      height: 40px;
+      color: red;
+      border-right: 1px solid #e6e6e6; 
+      cursor: pointer;}
+     .tou{ 
+       height: 200px; 
+       text-align: center;
+       font-size: 20px;
+      
+       
+       margin-top: 100px;}
+       .tou .shop{
+         width: 150px;
+         height: 150px;
+         margin-right: 10px;
+       }
+     
+       tfoot tr{
+        height: 80px;
+        font-size: 16px;
+        background:#ccc;
+       }
+       tfoot tr input{
+         margin-right: 10px;
+       }
+       tfoot tr em{
+         margin-left: 15px;
+         cursor: pointer;
+       }
+       tfoot tr a{
+         color: #000;
+         
+       }
+      
